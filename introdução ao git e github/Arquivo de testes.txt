@@ -1,0 +1,10 @@
+Comandos para usar no git bash:
+$ git clone "url"
+
+$ git status
+
+$ git add . - adiciona as modificações
+
+$ git commit -m adiciona uma mensagem as modificações (obrigatório)
+
+$ git push envia as modificações para o github
